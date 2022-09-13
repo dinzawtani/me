@@ -1,5 +1,5 @@
 /*
- * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
+ * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
  * Copyright (c) 2022 Dinesh Awtani
  */
@@ -24,9 +24,9 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Dinesh Awtani',
-    'I\'m a illustrator',
+    'I\'m an illustrator',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:dinesh@awtani.co">Dinesh@awtani.co</a>',
-    '<a target="_blank" href="https://twitter.com/dinzawtani">twitter.com/dinzawtani</a><br><a target="_blank" href="https://behance.net/awtani">behance.net/awtani</a><br><a target="_blank" href="https://dribbble.com/awtani">dribbble.com/awtani</a>',
+    'You can check my work on: <br><a target="_blank" href="https://behance.net/awtani">behance.net/awtani</a><br><a target="_blank" href="https://dribbble.com/awtani">dribbble.com/awtani</a>',
     getCurrentTime(),
     '👀 Dinesh 👀'
   ]
