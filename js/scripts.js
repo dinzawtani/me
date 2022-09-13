@@ -22,13 +22,13 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋',
-    'I\'m Dinesh Awtani',
-    'I\'m an illustrator',
+    'Hey there 👋🏻',
+    'Namaste 🙏🏻',
+    'I\'m Dinesh Awtani, an illustrator',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:dinesh@awtani.co">Dinesh@awtani.co</a>',
     'You can check my work on: <br><a target="_blank" href="https://behance.net/awtani">behance.net/awtani</a><br><a target="_blank" href="https://dribbble.com/awtani">dribbble.com/awtani</a>',
     getCurrentTime(),
-    '👀 Dinesh 👀'
+    'Dinesh Awtani 👀'
   ]
 
   var getFontSize = function() {
