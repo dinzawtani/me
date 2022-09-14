@@ -22,10 +22,10 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋🏻',
-    'Namaste 🙏🏻',
+    'Hey there 👋🏻, Namaste 🙏🏻',
     'I\'m Dinesh Awtani, an illustrator',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:dinesh@awtani.co">Dinesh@awtani.co</a>',
+    'You can also check my portfolio where can find my resume as well, 👉🏻 https://awtani.co',
     'You can check my work on: <br><a target="_blank" href="https://behance.net/awtani">behance.net/awtani</a><br><a target="_blank" href="https://dribbble.com/awtani">dribbble.com/awtani</a>',
     getCurrentTime(),
     'Dinesh Awtani 👀'
